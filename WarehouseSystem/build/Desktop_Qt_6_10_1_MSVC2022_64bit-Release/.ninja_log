@@ -1,0 +1,14 @@
+# ninja log v5
+12	1108	7874483043596728	WarehouseSystem_autogen/timestamp	45b29ce6f2e2f733
+1122	5320	7874483086585162	CMakeFiles/WarehouseSystem.dir/main.cpp.obj	2070c1e9df1e1107
+12	1108	7874483043596728	WarehouseSystem_autogen/mocs_compilation.cpp	45b29ce6f2e2f733
+1148	5565	7874483089094366	CMakeFiles/WarehouseSystem.dir/databasemanager.cpp.obj	630fde6471b96a49
+12	1108	7874483043596728	C:/Projects/Qt/WarehouseSystem/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/WarehouseSystem_autogen/timestamp	45b29ce6f2e2f733
+12	1108	7874483043596728	C:/Projects/Qt/WarehouseSystem/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/WarehouseSystem_autogen/mocs_compilation.cpp	45b29ce6f2e2f733
+1143	4369	7874483077190194	CMakeFiles/WarehouseSystem.dir/connectiondialog.cpp.obj	2ef3564ec71a7c71
+1137	6000	7874483093476937	CMakeFiles/WarehouseSystem.dir/itemwindow.cpp.obj	24c5064e6f57896c
+1133	6037	7874483093875750	CMakeFiles/WarehouseSystem.dir/loginwindow.cpp.obj	2a81adf8bd0b999
+1154	6125	7874483094717697	CMakeFiles/WarehouseSystem.dir/statisticsdialog.cpp.obj	2d07691edadbf732
+1115	6305	7874483096548700	CMakeFiles/WarehouseSystem.dir/WarehouseSystem_autogen/mocs_compilation.cpp.obj	59e3ac13aba8543e
+1127	6630	7874483099768022	CMakeFiles/WarehouseSystem.dir/mainwindow.cpp.obj	f33affe1f76a26bc
+6630	7904	7874483101608093	WarehouseSystem.exe	a74f47f07b5f5a23

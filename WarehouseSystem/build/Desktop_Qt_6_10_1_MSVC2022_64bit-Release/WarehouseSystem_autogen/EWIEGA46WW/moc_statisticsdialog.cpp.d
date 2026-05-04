@@ -1,0 +1,516 @@
+C:/Projects/Qt/WarehouseSystem/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/WarehouseSystem_autogen/EWIEGA46WW/moc_statisticsdialog.cpp: C:/Projects/Qt/WarehouseSystem/statisticsdialog.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QAbstractAxis \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QAbstractSeries \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QChart \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QChartGlobal \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QChartView \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QDateTimeAxis \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QLegend \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QLineSeries \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QValueAxis \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/QXYSeries \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qabstractaxis.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qabstractseries.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qchart.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qchartglobal.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qchartview.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qdatetimeaxis.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qlegend.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qlineseries.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qtcharts-config.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qtchartsexports.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qvalueaxis.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCharts/qxyseries.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/QList \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/QMargins \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/QObject \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/QRect \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/QSize \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/QSizeF \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/QString \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/QVariant \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/QVector \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/q17memory.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/q20functional.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/q20iterator.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/q20memory.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/q20type_traits.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/q20utility.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/q23type_traits.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/q23utility.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qabstracteventdispatcher.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qalgorithms.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qalloc.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qanystringview.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qarraydata.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qarraydataops.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qarraydatapointer.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qassert.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qatomic.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qatomic_cxx11.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qbasicatomic.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qbasictimer.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qbindingstorage.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qbytearray.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qbytearraylist.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qbytearrayview.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qchar.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcheckedint_impl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcompare.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcompare_impl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcomparehelpers.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcompilerdetection.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qconfig.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qconstructormacros.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcontainerfwd.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcontainerinfo.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcontainertools_impl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcontiguouscache.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcoreapplication.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcoreapplication_platform.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qcoreevent.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qdarwinhelpers.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qdatastream.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qdeadlinetimer.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qdebug.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qendian.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qeventloop.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qexceptionhandling.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qflags.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qfloat16.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qforeach.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qfunctionpointer.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qgenericatomic.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qglobal.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qglobalstatic.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qhash.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qhashfunctions.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qiodevice.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qiodevicebase.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qiterable.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qiterator.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qlatin1stringview.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qline.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qlist.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qlocale.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qlogging.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qmalloc.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qmap.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qmargins.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qmath.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qmetacontainer.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qmetatype.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qminmax.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qnamespace.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qnativeinterface.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qnumeric.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qobject.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qobject_impl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qobjectdefs.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qoverload.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qpair.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qpoint.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qprocessordetection.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qrect.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qrefcount.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qscopedpointer.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qscopeguard.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qset.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qshareddata.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qshareddata_impl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qsharedpointer.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qsize.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qspan.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstdlibdetection.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstring.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstringalgorithms.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstringbuilder.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstringconverter.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstringconverter_base.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstringfwd.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstringlist.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstringmatcher.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstringtokenizer.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qstringview.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qswap.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qsysinfo.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qsystemdetection.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtaggedpointer.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtconfiginclude.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtconfigmacros.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtcore-config.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtcoreexports.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtcoreglobal.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtextstream.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtformat_impl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtmetamacros.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtnoop.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtresource.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qttranslation.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qttypetraits.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtversion.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtversionchecks.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtypeinfo.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qtypes.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qurl.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qutf8stringview.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qvariant.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qvarlengtharray.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qvector.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qversiontagging.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qxptype_traits.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtCore/qyieldcpu.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/QBrush \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/QFont \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/QImage \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/QPen \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/QTransform \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qaction.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qbitmap.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qbrush.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qcolor.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qcursor.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qevent.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qeventpoint.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qfont.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qfontinfo.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qfontmetrics.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qfontvariableaxis.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qguiapplication.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qguiapplication_platform.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qicon.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qimage.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qinputdevice.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qinputmethod.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qkeysequence.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qpaintdevice.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qpainter.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qpainterpath.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qpalette.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qpen.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qpixelformat.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qpixmap.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qpointingdevice.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qpolygon.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qregion.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qrgb.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qrgba64.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qscreen.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qscreen_platform.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qtextoption.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qtgui-config.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qtguiexports.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qtguiglobal.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qtransform.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qvector2d.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qvectornd.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qwindowdefs.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtGui/qwindowdefs_win.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/QDialog \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/QGraphicsView \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/QGraphicsWidget \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qabstractscrollarea.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qdialog.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qframe.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qgraphicsitem.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qgraphicslayoutitem.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qgraphicsscene.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qgraphicsview.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qgraphicswidget.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qscrollarea.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qsizepolicy.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qtwidgets-config.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qtwidgetsexports.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qtwidgetsglobal.h \
+  C:/Development_Tools/Qt/6.10.1/msvc2022_64/include/QtWidgets/qwidget.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/assert.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt_malloc.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt_memcpy_s.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt_memory.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt_search.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt_stdio_config.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt_wstdio.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt_wstdlib.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt_wstring.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/errno.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/stddef.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/stdio.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/stdlib.h \
+  C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/string.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/algorithm \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/array \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/atomic \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/cassert \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/chrono \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/climits \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/cmath \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/concurrencysal.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/cstddef \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/cstdint \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/cstdlib \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/cstring \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/ctime \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/functional \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/initializer_list \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/iostream \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/istream \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/iterator \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/limits \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/limits.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/list \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/map \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/memory \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/new \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/numeric \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/optional \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/ostream \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/sal.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/set \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/stdarg.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/stdbool.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/stdexcept \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/string \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/string_view \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/tuple \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/type_traits \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/unordered_map \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/unordered_set \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/utility \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/vadefs.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/variant \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/vcruntime.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/vcruntime_string.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/vector \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/version \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/yvals.h \
+  C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/yvals_core.h \
+  C:/Projects/Qt/WarehouseSystem/databasemanager.h \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/array/element-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/array/element.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/array/value-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/array/value.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/array/view-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/array/view.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/array/view_or_value.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/array-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/array.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/document-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/document.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/helpers.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/impl.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/kvp.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/sub_array-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/sub_array.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/sub_document-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/basic/sub_document.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/concatenate-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/concatenate.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/core-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/builder/core.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/config/compiler.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/config/config.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/config/export.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/config/postlude.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/config/prelude.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/config/util.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/config/version.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/decimal128-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/decimal128.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/document/element-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/document/element.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/document/value-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/document/value.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/document/view-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/document/view.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/document/view_or_value.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/json-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/json.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/oid-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/oid.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/stdx/optional.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/stdx/string_view.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/stdx/type_traits.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/string/view_or_value-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/string/view_or_value.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/types-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/types.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/types/bson_value/value-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/types/bson_value/value.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/types/bson_value/view-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/types/bson_value/view.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/types/bson_value/view_or_value.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/view_or_value-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/bsoncxx/v_noabi/bsoncxx/view_or_value.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/bulk_write-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/bulk_write.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/change_stream-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/change_stream.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/client-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/client.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/client_encryption-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/client_session-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/client_session.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/collection-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/collection.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/config/compiler.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/config/config.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/config/export.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/config/postlude.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/config/prelude.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/config/version.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/cursor-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/cursor.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/database-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/database.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/command_failed_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/command_failed_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/command_started_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/command_started_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/command_succeeded_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/command_succeeded_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/heartbeat_failed_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/heartbeat_failed_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/heartbeat_started_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/heartbeat_started_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/heartbeat_succeeded_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/heartbeat_succeeded_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/server_changed_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/server_changed_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/server_closed_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/server_closed_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/server_description-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/server_description.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/server_opening_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/server_opening_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/topology_changed_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/topology_changed_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/topology_closed_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/topology_closed_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/topology_description-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/topology_description.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/topology_opening_event-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/events/topology_opening_event.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/gridfs/bucket-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/gridfs/bucket.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/gridfs/downloader-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/gridfs/downloader.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/gridfs/uploader-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/gridfs/uploader.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/hint-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/hint.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/index_model-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/index_model.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/index_view-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/index_view.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/instance-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/instance.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/logger-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/delete_many-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/delete_many.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/delete_one-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/delete_one.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/insert_one-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/insert_one.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/replace_one-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/replace_one.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/update_many-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/update_many.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/update_one-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/update_one.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/write-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/model/write.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/aggregate-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/aggregate.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/apm-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/apm.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/auto_encryption-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/auto_encryption.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/bulk_write-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/bulk_write.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/change_stream-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/change_stream.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/client-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/client.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/client_encryption-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/client_encryption.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/client_session-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/client_session.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/count-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/count.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/delete-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/delete.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/distinct-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/distinct.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/estimated_document_count-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/estimated_document_count.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find_one_and_delete-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find_one_and_delete.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find_one_and_replace-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find_one_and_replace.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find_one_and_update-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find_one_and_update.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find_one_common_options-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/find_one_common_options.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/gridfs/bucket-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/gridfs/bucket.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/gridfs/upload-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/gridfs/upload.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/index-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/index.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/index_view-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/index_view.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/insert-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/insert.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/replace-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/replace.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/server_api-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/server_api.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/tls-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/tls.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/transaction-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/transaction.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/update-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/options/update.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/pipeline-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/pipeline.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/pool-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/read_concern-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/read_concern.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/read_preference-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/read_preference.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/bulk_write-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/bulk_write.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/delete-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/delete.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/gridfs/upload-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/gridfs/upload.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/insert_many-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/insert_many.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/insert_one-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/insert_one.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/replace_one-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/replace_one.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/update-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/result/update.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/search_index_model-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/search_index_model.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/search_index_view-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/search_index_view.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/uri-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/uri.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/write_concern-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/write_concern.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/write_type-fwd.hpp \
+  C:/dev/vcpkg/vcpkg/installed/x64-windows/include/mongocxx/v_noabi/mongocxx/write_type.hpp
