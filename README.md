@@ -30,3 +30,13 @@
 ## Contact
 Author: Petro Luchaninov
 Email: luchaninovp5@gmail.com
+
+## Preview
+
+<img width="371" height="586" alt="image" src="https://github.com/user-attachments/assets/25f683a9-ec1c-4878-bf89-4b4d0fab84a1" />
+<img width="917" height="578" alt="image" src="https://github.com/user-attachments/assets/7798e647-0bc4-45d9-8246-a4a7721aae96" />
+<img width="888" height="563" alt="image" src="https://github.com/user-attachments/assets/3df34b24-56b0-48fb-b481-e411ee801ba0" />
+<img width="439" height="582" alt="image" src="https://github.com/user-attachments/assets/f00ae1c5-5b11-4813-aa9e-ad8150969f9c" />
+<img width="783" height="619" alt="image" src="https://github.com/user-attachments/assets/b59fe705-e0f4-4373-81c7-663650e84637" />
+<img width="499" height="413" alt="image" src="https://github.com/user-attachments/assets/697ffa42-f4c3-44b8-8c33-52cbc7d2b486" />
+
